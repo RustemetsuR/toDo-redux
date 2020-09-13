@@ -1,0 +1,15 @@
+.text{
+    font-style: italic;
+    font-size: 25px;
+    padding: 25px;
+    margin: 0;
+    display: inline-block;
+}
+
+.text-box{
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    display: inline-block;
+}
